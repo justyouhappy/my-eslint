@@ -13,6 +13,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "yhj",
+  "keywords": [
+    "eslint"
+  ],
   "license": "ISC",
   "description": "wx eslint config",
   "repository": {
