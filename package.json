@@ -1,5 +1,5 @@
 {
-  "name": "demo",
+  "name": "eslint-config-alan",
   "version": "1.0.0",
   "main": "webpack.config.js",
   "dependencies": {
@@ -8,8 +8,7 @@
     "eslint-config-airbnb-base": "^11.3.1",
     "eslint-plugin-import": "^2.7.0"
   },
-  "devDependencies": {
-  },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
