@@ -14,5 +14,13 @@
   },
   "author": "yhj",
   "license": "ISC",
-  "description": "wx eslint config"
+  "description": "wx eslint config",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/justyouhappy/my-eslint.git"
+  },
+  "bugs": {
+    "url": "https://github.com/justyouhappy/my-eslint/issues"
+  },
+  "homepage": "https://github.com/justyouhappy/my-eslint#readme"
 }
