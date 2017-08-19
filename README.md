@@ -1,4 +1,4 @@
-# eslint-config-wx
+# eslint-config-alan
 
 ## 编码规范
 
